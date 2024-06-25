@@ -1,43 +1,32 @@
 # angel-bot
 
-_For now we have few commands, but I invite you to try it and give me your suggestions and recommendations._
+_Por ahora tenemos pocos comandos, pero te invito a que lo pruebes y me des tus sugerencias y recomendaciones._
 
-## Beginning 🚀
+## Comienzo 🚀
 
-_Download the project and extract it to your computer._
+_Descarga el proyecto y extráelo a tu ordenador.._
 
-### Pre-requisites 📋
+### Pre-requisitos 📋
 
-_Remember that to use this project you must have NODEJS installed._
+Recuerda que para utilizar este proyecto debes tener instalado NODEJS.
 
-### Installation 🔧
+### Instalación 🔧
 
-_Once you have the project, in the console run_
+_Una vez tengas el proyecto, en la consola ejecuta_
 
 ```
 npm intall
 ```
 
-_Then you must run:_
+A continuación debes ejecutar:_
 
 ```
 node app.js
 ```
 
-_At this point you should already be using the bot and its functions._
+En este punto ya deberías estar usando el bot y sus funciones.
 
-## Built with 🛠️
+## Construido con 🛠️
 
 * [whatsapp-web.js](https://www.npmjs.com/package/whatsapp-web.js)
 
-## Authors ✒️
-
-* **Angelo Velandia** - *Complete Work* - [angelovelandia](https://github.com/angelovelandia)
-
-## Expressions of Gratitude 🎁
-
-* Thanks to all who download and use this project. 📢
-* Donate with Paypal: `velandia_angelo@outlook.com`
-
----
-⌨️ with ❤️ by [angelovelandia](https://github.com/angelovelandia) 😊
